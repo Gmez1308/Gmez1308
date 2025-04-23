@@ -46,7 +46,7 @@ GitHub_
 
 ---
 
-## Nivel de Lenguajes
+## Nivel de programación
 
 ![Lenguajes](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%2C%22Java%22%2C%22SQL%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Nivel%20Aprendido%22%2C%22data%22%3A%5B20%2C20%2C0%2C0%2C0%2C0%5D%2C%22borderColor%22%3A%22white%22%2C%22backgroundColor%22%3A%22rgba(255%2C255%2C255%2C0.2)%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22white%22%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%2C%22beginAtZero%22%3Atrue%7D%7D%7D%7D)
 
