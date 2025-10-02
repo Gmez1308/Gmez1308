@@ -27,7 +27,7 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/VSCode-Dark.svg" width="40" />
-  Visual_Studio_Code
+  Visual Studio Code
 </p>
 <p align="left">
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Dark.svg" width="40" style="filter: invert(1);" />
@@ -51,7 +51,7 @@ Unity
 
 ## Nivel de programación
 
-![Lenguajes](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%2C%22Java%22%2C%22SQL%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Nivel%20Aprendido%22%2C%22data%22%3A%5B20%2C20%2C0%2C0%2C0%2C0%5D%2C%22borderColor%22%3A%22white%22%2C%22backgroundColor%22%3A%22rgba(255%2C255%2C255%2C0.2)%22%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22white%22%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%7D%2C%22y%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22white%22%7D%2C%22beginAtZero%22%3Atrue%7D%7D%7D%7D)
+![Lenguajes](https://quickchart.io/chart?c=%7B%22type%22%3A%22line%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22HTML%22%2C%22CSS%22%2C%22JavaScript%22%2C%22Java%22%2C%22SQL%22%2C%22C%23%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Nivel%20Aprendido%22%2C%22data%22%3A%5B30%2C10%2C0%2C0%2C0%2C0%2C0%5D%2C%22borderColor%22%3A%22%23ff7f0e%22%2C%22fill%22%3Afalse%2C%22pointRadius%22%3A5%2C%22pointBackgroundColor%22%3A%22%23000%22%2C%22pointBorderColor%22%3A%22%23777%22%2C%22pointBorderWidth%22%3A2%7D%5D%7D%2C%22options%22%3A%7B%22plugins%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22color%22%3A%22%23111%22%7D%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22ticks%22%3A%7B%22color%22%3A%22%23111%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22%23999%22%7D%7D%2C%22y%22%3A%7B%22min%22%3A0%2C%22max%22%3A100%2C%22beginAtZero%22%3Atrue%2C%22ticks%22%3A%7B%22color%22%3A%22%23111%22%7D%2C%22grid%22%3A%7B%22color%22%3A%22%23999%22%7D%7D%7D%7D%7D)
 
 ---
 
@@ -131,3 +131,4 @@ Unity
     1308gomeznohe5@gmail.com
   </a>
 </p>
+
