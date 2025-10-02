@@ -131,4 +131,9 @@ Unity
     1308gomeznohe5@gmail.com
   </a>
 </p>
-
+<p>
+  <a href="https://www.linkedin.com/in/noelia-g%C3%B3mez-235951310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="color: white; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="30" style="filter: invert(1); vertical-align: middle;" />
+    Linkedln
+  </a>
+</p>
